@@ -1,4 +1,4 @@
-import {createCustomObj, renderSearchResult} from '/utils.js'
+import {createCustomObj, renderSearchResult} from 'utils.js'
 
 $(document).ready(function () {
   let movieToWatchListHtml = [];
@@ -70,5 +70,3 @@ $(document).ready(function () {
     }
  });
 });
-
-

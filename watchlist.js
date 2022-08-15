@@ -1,4 +1,4 @@
-import { createCustomObj, isPlotLongOrShort } from "/utils.js";
+import { createCustomObj, isPlotLongOrShort } from "utils.js";
 $(document).ready(() => {
   let savedMovies = JSON.parse(localStorage.getItem("movies"));
 
