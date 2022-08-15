@@ -1,4 +1,4 @@
-import {createCustomObj, renderSearchResult} from 'utils.js'
+import {createCustomObj, renderSearchResult} from "./js/utils";
 
 $(document).ready(function () {
   let movieToWatchListHtml = [];
